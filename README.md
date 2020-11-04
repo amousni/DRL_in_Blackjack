@@ -1,5 +1,5 @@
 # DRLinBlackjack
-!(https://github.com/amousni/DRLinBlackjack/blob/master/%E5%9B%BE%E7%89%87%201.png)
+![](https://github.com/amousni/DRLinBlackjack/blob/master/1.png)
 some basic algorithm in Reinforcement Learning based on TF1.X
 Env is Blackjack_, plotting.py for plot different value of state from kinds of algorithm.
 
